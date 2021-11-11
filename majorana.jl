@@ -13,7 +13,7 @@ function majorana(N::Int)
     #   N.B. the Hilbert space is 2^(N/2) dimensional
     #
     #   Outputs:
-    #   Xi is an 2^(N/2) x 2^(N/2) x N array. 
+    #   Xi is an 2^(N/2) x 2^(N/2) x N array.
     #   You access the ith fermion as Xi(:,:,i)
     #
     #   Inputs:
